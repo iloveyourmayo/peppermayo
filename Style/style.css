@@ -32,8 +32,8 @@ img:hover {
 
 .peppermint{
   color: rgb(27, 43, 41);
-  margin-left: 260px;
-  margin-top: -170px;
+  margin-left: 220px;
+  margin-top: -150px;
   font-size: 25px;
 }
 
@@ -45,7 +45,7 @@ img:hover {
 .niche{
     font-style: oblique;
     font-weight: 500 ;
-    margin-top: 170px;
+    margin-top: 140px;
     margin-left: 5px;
 }
 
@@ -91,6 +91,7 @@ li{
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
+  font-size: 17px;
   
 }
 
@@ -100,6 +101,7 @@ li{
   margin-top: -43px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
+  font-size: 17px;
 }
 
 
@@ -109,6 +111,7 @@ li{
   margin-top: -42px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
+  font-size: 17px;
 }
 
 
@@ -118,6 +121,7 @@ li{
   margin-top: -41px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
+  font-size: 17px;
 }
 
 a:link{
