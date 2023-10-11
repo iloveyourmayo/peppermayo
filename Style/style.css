@@ -21,8 +21,8 @@ html{
 
 
 .profilepicture {
-    width: 200px;
-    height: 300px;
+    width: 150px;
+    height: 200px;
     margin-left: 30px;
     margin-top: 30px;
 }
@@ -33,9 +33,9 @@ img:hover {
 
 .peppermint{
   color: rgb(27, 43, 41);
-  margin-left: 250px;
+  margin-left: 220px;
   margin-top: -300px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 
@@ -47,7 +47,7 @@ img:hover {
     font-style: oblique;
     font-weight: 500 ;
     margin-top: 40px;
-    margin-left: 230px;
+    margin-left: 200px;
 }
 
 
