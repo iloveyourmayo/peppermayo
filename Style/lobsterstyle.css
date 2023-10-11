@@ -1,0 +1,49 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+/* Write your CSS below, don't change the rules above. */
+
+
+html{
+    background-color: rgba(87, 50, 8, 0.877);
+}
+
+
+.babykopicture {
+  width: 200px;
+  height: 300px;
+  margin-left: 250px;
+  margin-top: 150px;
+}
+
+
+img:hover {
+  opacity: 0.5;
+}
+
+
+
+p{ 
+  color: rgb(241, 168, 83);
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+  margin-left: 250px;  
+}
+
+
+p:hover{
+  color: rgb(223, 216, 199);
+}
+
+
+
+.hr1{
+  border-color:rgba(134, 125, 125, 0.459) ;
+}
+
+.hr2{
+  border-color:rgba(134, 125, 125, 0.459) ;
+}
+

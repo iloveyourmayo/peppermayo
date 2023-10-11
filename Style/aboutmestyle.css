@@ -1,0 +1,29 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+/* Write your CSS below, don't change the rules above. */
+
+
+html{
+    background-color: rgba(175, 181, 182, 0.822);
+
+}
+
+
+
+
+
+body{ 
+
+  color: rgba(114, 4, 4, 0.986);
+
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+  margin-left: 150px;  
+  margin-top: 150px;  
+}
+
+
+

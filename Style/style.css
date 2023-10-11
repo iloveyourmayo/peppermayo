@@ -1,0 +1,132 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+/* Write your CSS below, don't change the rules above. */
+
+
+
+html{
+    background-color: rgb(65, 80, 72);
+
+}
+
+
+*{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+
+.profilepicture {
+    width: 200px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+.peppermint{
+  color: rgb(27, 43, 41);
+  margin-left: 250px;
+  margin-top: -300px;
+}
+
+
+.peppermint:hover{
+  color: rgb(145, 150, 147);
+}
+
+.niche{
+    font-style: oblique;
+    font-weight: 500 ;
+    margin-top: 40px;
+    margin-left: 230px;
+
+}
+
+
+.nichelist{
+  color:rgba(161, 173, 167, 0.596);
+  font-weight: 500 ;
+  margin-left: 270px;
+
+}
+
+.hr1{
+  border-color:rgb(134, 125, 125, 0.459) ;
+}
+
+
+.hr2{
+  border-color:rgb(134, 125, 125, 0.459) ;
+  margin-top: 60px;
+}
+
+
+.languageskills{
+  font-weight: 500 ;
+  font-style: oblique;
+  margin-top: 30px;
+}
+
+
+li{
+  color:rgb(139, 160, 151);
+  font-weight: 250 ;
+  margin-left: 40px;
+
+  
+}
+
+
+
+.contactme{
+  color: rgba(243, 238, 238, 0.89);
+  margin-left: 30px;
+  margin-top: 30px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+  
+}
+
+.aboutme{
+  color: rgb(243, 238, 238, 0.89);
+  margin-left: 170px;
+  margin-top: -45px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+}
+
+
+.projects{
+  color: rgb(243, 238, 238, 0.89);
+  margin-left: 285px;
+  margin-top: -45px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+}
+
+
+.lobster{
+  color: rgb(243, 238, 238, 0.89);
+  margin-left: 410px;
+  margin-top: -45px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+}
+
+a:link{
+  color: black;
+}
+
+
+a:hover{
+  color: rgb(215, 228, 220);
+}
+
