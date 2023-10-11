@@ -123,10 +123,17 @@ li{
 
 a:link{
   color: black;
+  text-decoration: none;
 }
 
 
 a:hover{
   color: rgb(215, 228, 220);
+  text-decoration: none;
+}
+
+
+a:visited {
+  color: rgb(145,150,147);
 }
 
