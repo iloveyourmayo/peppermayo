@@ -33,9 +33,9 @@ img:hover {
 
 .peppermint{
   color: rgb(27, 43, 41);
-  margin-left: 240px;
+  margin-left: 260px;
   margin-top: -260px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 
@@ -54,7 +54,7 @@ img:hover {
 .nichelist{
   color:rgba(161, 173, 167, 0.596);
   font-weight: 300 ;
-  margin-left: 210px;
+  margin-left: 200px;
 
 }
 
@@ -88,7 +88,7 @@ li{
 
 .contactme{
   color: rgba(243, 238, 238, 0.89);
-  margin-left: 30px;
+  margin-left: 15px;
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -97,7 +97,7 @@ li{
 
 .aboutme{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 170px;
+  margin-left: 155px;
   margin-top: -43px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -106,7 +106,7 @@ li{
 
 .projects{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 285px;
+  margin-left: 270px;
   margin-top: -42px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -115,7 +115,7 @@ li{
 
 .lobster{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 410px;
+  margin-left: 395px;
   margin-top: -41px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
