@@ -34,7 +34,7 @@ img:hover {
 .peppermint{
   color: rgb(27, 43, 41);
   margin-left: 260px;
-  margin-top: -200px;
+  margin-top: -220px;
   font-size: 25px;
 }
 
@@ -46,15 +46,15 @@ img:hover {
 .niche{
     font-style: oblique;
     font-weight: 500 ;
-    margin-top: 230px;
-    margin-left: 15px;
+    margin-top: 300px;
+    margin-left: 10px;
 }
 
 
 .nichelist{
   color:rgba(161, 173, 167, 0.596);
   font-weight: 300 ;
-  margin-left: 15px;
+  margin-left: 10px;
 
 }
 
@@ -72,14 +72,14 @@ img:hover {
 .languageskills{
   font-weight: 500 ;
   font-style: oblique;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 
 li{
   color:rgb(139, 160, 151);
   font-weight: 250 ;
-  margin-left: 10px;
+  margin-left: 5px;
 
   
 }
@@ -88,7 +88,7 @@ li{
 
 .contactme{
   color: rgba(243, 238, 238, 0.89);
-  margin-left: 15px;
+  margin-left: 10px;
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -97,7 +97,7 @@ li{
 
 .aboutme{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 155px;
+  margin-left: 150px;
   margin-top: -43px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -106,7 +106,7 @@ li{
 
 .projects{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 270px;
+  margin-left: 265px;
   margin-top: -42px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -115,7 +115,7 @@ li{
 
 .lobster{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 395px;
+  margin-left: 390px;
   margin-top: -41px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
