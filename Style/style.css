@@ -34,7 +34,7 @@ img:hover {
 .peppermint{
   color: rgb(27, 43, 41);
   margin-left: 260px;
-  margin-top: -260px;
+  margin-top: -220px;
   font-size: 25px;
 }
 
@@ -47,14 +47,14 @@ img:hover {
     font-style: oblique;
     font-weight: 500 ;
     margin-top: 40px;
-    margin-left: 190px;
+    margin-left: 198px;
 }
 
 
 .nichelist{
   color:rgba(161, 173, 167, 0.596);
   font-weight: 300 ;
-  margin-left: 200px;
+  margin-left: 210px;
 
 }
 
