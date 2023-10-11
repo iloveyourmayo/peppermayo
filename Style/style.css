@@ -19,7 +19,6 @@ html{
 }
 
 
-
 .profilepicture {
     width: 200px;
     height: 210px;
@@ -46,7 +45,7 @@ img:hover {
 .niche{
     font-style: oblique;
     font-weight: 500 ;
-    margin-top: 220px;
+    margin-top: 190px;
     margin-left: 5px;
 }
 
