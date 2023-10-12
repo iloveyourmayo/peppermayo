@@ -82,7 +82,7 @@ li{
 
 .contactme{
   color: rgba(243, 238, 238, 0.89);
-  margin-left: 5px;
+  margin-left: 3px;
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -91,7 +91,7 @@ li{
 
 .aboutme{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 130px;
+  margin-left: 128px;
   margin-top: -41px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -100,7 +100,7 @@ li{
 
 .projects{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 245px;
+  margin-left: 243px;
   margin-top: -39px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -109,7 +109,7 @@ li{
 
 .lobster{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 379px;
+  margin-left: 373px;
   margin-top: -39px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
