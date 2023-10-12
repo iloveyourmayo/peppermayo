@@ -132,3 +132,11 @@ a:visited {
   color: rgb(145,150,147);
 }
 
+
+.head2{
+  width: 600px;
+  height: 100px;
+  opacity: 0.5;
+  margin-left: 1px;
+  margin-top: 10px;
+}
