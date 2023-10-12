@@ -20,7 +20,7 @@ html{
 .profilepicture {
     width: 200px;
     height: 235px;
-    margin-left: 17px;
+    margin-left: 10px;
     margin-top: 15px;
 }
 
@@ -29,7 +29,7 @@ img:hover {
 }
 
 .peppermint{
-  color: rgb(27, 43, 41);
+  color: rgb(26, 51, 35);
   margin-left: 240px;
   margin-top: -150px;
   font-size: 25px;
@@ -38,50 +38,58 @@ img:hover {
 
 
 .peppermint:hover{
-  color: rgb(145, 150, 147);
+  color: rgb(80, 131, 101);
 }
 
 .niche{
+    color:rgb(5, 5, 5);
     font-weight: 500 ;
-    margin-top: -380px;
-    margin-left: 5px;
-}
-
-.head1{
-  width: 600px;
-  height: 500px;
-  opacity: 0.25;
-}
-
-.nichelist{
-  color:rgba(217, 236, 227, 0.596);
-  font-weight: 300 ;
-  margin-left: 10px;
+    margin-top: 130px;
 }
 
 .hr1{
   border-color:rgb(134, 125, 125, 0.459) ;
-  margin-top: 30px;
 }
+
+
+.nichelist{
+  color: rgb(104, 150, 123);
+  font-weight: 300 ;
+  margin-left: 10px;
+}
+
+.nichelist:hover{
+  color:rgb(177, 189, 184);
+}
+
 
 
 .hr2{
   border-color:rgb(134, 125, 125, 0.459) ;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
+.hr3{
+  border-color:rgb(134, 125, 125, 0.459) ;
+  margin-top: 20px;
+}
 
 .languageskills{
+  
   font-weight: 400 ;
   margin-top: 10px;
 }
 
 
 li{
-  color:rgb(139, 160, 151);
+  color: rgb(104, 150, 123);
   font-weight: 250 ;
   margin-left: 5px; 
   font-style: oblique;
+}
+
+li:hover{
+  color:rgb(177, 189, 184);
 }
 
 
@@ -89,16 +97,15 @@ li{
 .contactme{
   color: rgba(243, 238, 238, 0.89);
   margin-left: 3px;
-  margin-top: -60px;
+  margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
-
 }
 
 .aboutme{
   color: rgb(243, 238, 238, 0.89);
   margin-left: 128px;
-  margin-top: -41px;
+  margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
 }
@@ -107,7 +114,7 @@ li{
 .projects{
   color: rgb(243, 238, 238, 0.89);
   margin-left: 243px;
-  margin-top: -39px;
+  margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
 }
@@ -115,8 +122,8 @@ li{
 
 .lobster{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 369px;
-  margin-top: -41px;
+  margin-left: 355px;
+  margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
 }
@@ -124,7 +131,6 @@ li{
 a:link{
   color: black;
   text-decoration: none;
-
 }
 
 
@@ -139,16 +145,6 @@ a:visited {
 }
 
 
-
-.head2{
-  width: 600px;
-  height: 90px;
-  opacity: 0.25;
-}
-
-
-
- /* margin-top: 100px;  margin-left: 1px;*/
 
 
 
