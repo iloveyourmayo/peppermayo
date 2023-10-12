@@ -87,8 +87,7 @@ li{
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
-  font-style: oblique;
-  font-size: 17px;
+
 }
 
 .aboutme{
@@ -97,8 +96,6 @@ li{
   margin-top: -41px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
-  font-style: oblique;
-  font-size: 17px;
 }
 
 
@@ -108,8 +105,6 @@ li{
   margin-top: -39px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
-  font-style: oblique;
-  font-size: 17px;
 }
 
 
@@ -119,8 +114,6 @@ li{
   margin-top: -39px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
-  font-style: oblique;
-  font-size: 17px;
 }
 
 a:link{
