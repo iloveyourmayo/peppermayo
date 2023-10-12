@@ -42,7 +42,6 @@ img:hover {
 }
 
 .niche{
-    font-style: oblique;
     font-weight: 500 ;
     margin-top: 120px;
     margin-left: 5px;
@@ -62,7 +61,7 @@ img:hover {
 
 .hr2{
   border-color:rgb(134, 125, 125, 0.459) ;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 
@@ -92,7 +91,7 @@ li{
 
 .aboutme{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 145px;
+  margin-left: 130px;
   margin-top: -41px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -101,7 +100,7 @@ li{
 
 .projects{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 260px;
+  margin-left: 245px;
   margin-top: -39px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -110,7 +109,7 @@ li{
 
 .lobster{
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 385px;
+  margin-left: 379px;
   margin-top: -39px;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
