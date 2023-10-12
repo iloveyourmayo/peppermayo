@@ -33,6 +33,7 @@ img:hover {
   margin-left: 240px;
   margin-top: -150px;
   font-size: 25px;
+  font-style: oblique;
 }
 
 
@@ -66,8 +67,7 @@ img:hover {
 
 
 .languageskills{
-  font-weight: 500 ;
-  font-style: oblique;
+  font-weight: 400 ;
   margin-top: 10px;
 }
 
@@ -76,6 +76,7 @@ li{
   color:rgb(139, 160, 151);
   font-weight: 250 ;
   margin-left: 5px; 
+  font-style: oblique;
 }
 
 
