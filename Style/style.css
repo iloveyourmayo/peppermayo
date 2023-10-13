@@ -89,7 +89,6 @@ li:hover{
 
 .contactme{
   font-size: 10;
-  background-color: darkseagreen;
   color: rgba(243, 238, 238, 0.89);
   margin-left: 1px;
   margin-top: 30px;
@@ -140,6 +139,9 @@ a:visited {
   color: rgb(145,150,147);
 }
 
+h5{
+  font-weight: lighter;
+}
 
 
 
