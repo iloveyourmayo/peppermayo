@@ -8,6 +8,69 @@ html{
 }
 
 
+
+.contactme{
+  font-size: 10px;
+  font-weight: lighter;
+  color: rgba(243, 238, 238, 0.89);
+  margin-left: 1px;
+  margin-top: -2px;
+  font-family:'Courier New', Courier, monospace;
+  background-color: darkseagreen;
+}
+
+.aboutme{
+  font-size: 10px;
+  font-weight: lighter;
+  color: rgb(243, 238, 238, 0.89);
+  margin-left: 100px;
+  margin-top: -31px;
+  font-family:'Courier New', Courier, monospace;
+}
+
+
+.projects{
+  font-size: 10px;
+  font-weight: lighter;
+  color: rgb(243, 238, 238, 0.89);
+  margin-left: 190px;
+  margin-top: -30px;
+  font-family:'Courier New', Courier, monospace;
+}
+
+
+.lobster{
+  font-size: 10px;
+  font-weight: lighter;
+  color: rgb(243, 238, 238, 0.89);
+  margin-left: 285px;
+  margin-top: -31px;
+  font-family:'Courier New', Courier, monospace;
+}
+
+a:link{
+  color: black;
+  text-decoration: none;
+}
+
+
+a:hover{
+  color: rgb(215, 228, 220);
+  text-decoration: none;
+}
+
+
+a:visited {
+  color: rgb(145,150,147);
+}
+
+
+
+.hr1{
+  border-color:rgb(134, 125, 125, 0.459) ;
+}
+
+
 .profilepicture {
     width: 200px;
     height: 235px;
@@ -21,7 +84,7 @@ img:hover {
 
 .peppermint{
   color: rgb(26, 51, 35);
-  margin-left: 240px;
+  margin-left: 215px;
   margin-top: -150px;
   font-size: 15px;
   font-style: oblique;
@@ -39,9 +102,7 @@ img:hover {
     margin-top: 130px;
 }
 
-.hr1{
-  border-color:rgb(134, 125, 125, 0.459) ;
-}
+
 
 
 .nichelist{
@@ -69,8 +130,8 @@ img:hover {
 .languageskills{
   color:rgb(5, 5, 5);
   background-color: #C58940;
-  font-size: 15px ; 
-  margin-top: 20px;
+  font-size: 12px ; 
+  margin-top: 15px;
 }
 
 
@@ -83,60 +144,6 @@ li{
 
 li:hover{
   color:#C58940;
-}
-
-
-
-.contactme{
-  font-size: 10px;
-  color: rgba(243, 238, 238, 0.89);
-  margin-left: 1px;
-  margin-top: 30px;
-  font-family:'Courier New', Courier, monospace;
-
-}
-
-.aboutme{
-  font-size: 10px;
-  color: rgb(243, 238, 238, 0.89);
-  margin-left: 100px;
-  margin-top: -40px;
-  font-family:'Courier New', Courier, monospace;
-  
-}
-
-
-.projects{
-  font-size: 10px;
-  color: rgb(243, 238, 238, 0.89);
-  margin-left: 190px;
-  margin-top: -40px;
-  font-family:'Courier New', Courier, monospace;
-}
-
-
-.lobster{
-  font-size: 10px;
-  color: rgb(243, 238, 238, 0.89);
-  margin-left: 290px;
-  margin-top: -40px;
-  font-family:'Courier New', Courier, monospace;
-}
-
-a:link{
-  color: black;
-  text-decoration: none;
-}
-
-
-a:hover{
-  color: rgb(215, 228, 220);
-  text-decoration: none;
-}
-
-
-a:visited {
-  color: rgb(145,150,147);
 }
 
 
