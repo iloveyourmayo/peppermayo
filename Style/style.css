@@ -11,7 +11,7 @@ html{
 .profilepicture {
     width: 200px;
     height: 235px;
-    margin-left: 10px;
+    margin-left: 5px;
     margin-top: 15px;
 }
 
@@ -23,7 +23,7 @@ img:hover {
   color: rgb(26, 51, 35);
   margin-left: 240px;
   margin-top: -150px;
-  font-size: 18px;
+  font-size: 15px;
   font-style: oblique;
 }
 
