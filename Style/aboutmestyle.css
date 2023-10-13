@@ -1,10 +1,3 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
-}
-/* Write your CSS below, don't change the rules above. */
-
 
 html{
     background-color: rgba(175, 181, 182, 0.822);
@@ -12,24 +5,19 @@ html{
 }
 
 
-
-
-
-.aboutme{ 
-
-  color: rgba(114, 4, 4, 0.986);
-
+p{ 
+  color: rgba(11, 36, 21, 0.986);
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
-  margin-left: 150px;  
-  margin-top: 150px;  
+  text-align: center;
+  margin-top: 10px;  
 }
 
 
 a{
-  font-size: 10px;
-  margin-top: 100px;
-  margin-left: 40px;
+  font-size: 12px;  
+  margin-top: 150px;
+  text-align: center;
 }
 
 a:link{
@@ -38,7 +26,7 @@ a:link{
 }
 
 a:hover{
-    color: rgb(215,228,220);
+    color: rgb(32, 49, 38);
     text-decoration: none;
 }
 

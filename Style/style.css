@@ -1,14 +1,5 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
-}
-/* Write your CSS below, don't change the rules above. */
-
-
-
 html{
-    background-color: white;
+    background-color: antiquewhite
 }
 
 
@@ -42,8 +33,9 @@ img:hover {
 }
 
 .niche{
-    color:rgb(80, 131, 101);
-    font-weight: 500 ;
+    color:rgb(5, 5, 5);
+    background-color: darkseagreen;
+    font-weight: 500 ; 
     margin-top: 130px;
 }
 
@@ -59,7 +51,7 @@ img:hover {
 }
 
 .nichelist:hover{
-  color:rgb(177, 189, 184);
+  color:rgb(74, 82, 78);
 }
 
 
@@ -75,21 +67,22 @@ img:hover {
 }
 
 .languageskills{
-  color:rgb(80, 131, 101);
-  font-weight: 400 ;
-  margin-top: 10px;
+  color:rgb(5, 5, 5);
+  background-color: #C58940;
+  font-weight: 500 ; 
+  margin-top: 20px;
 }
 
 
 li{
-  color: rgb(104, 150, 123);
+  color: #8f5611;
   font-weight: 250 ;
   margin-left: 5px; 
   font-style: oblique;
 }
 
 li:hover{
-  color:rgb(177, 189, 184);
+  color:#C58940;
 }
 
 
@@ -145,7 +138,9 @@ a:visited {
 }
 
 
-
+h5{
+  background-color: #C58940;
+}
 
 
 

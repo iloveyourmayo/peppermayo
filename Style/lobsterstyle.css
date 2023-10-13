@@ -1,13 +1,5 @@
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
-}
-/* Write your CSS below, don't change the rules above. */
-
-
 html{
-    background-color: rgba(87, 50, 8, 0.877);
+  background-color: antiquewhite
 }
 
 
@@ -26,10 +18,11 @@ img:hover {
 
 
 p{ 
-  color: rgb(241, 168, 83);
+  color: rgb(82, 54, 23);
+  background-color: #C58940;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
-  margin-left: 85px;  
+  text-align: center;
 }
 
 
