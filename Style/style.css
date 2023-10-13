@@ -35,7 +35,7 @@ img:hover {
 .niche{
     color:rgb(5, 5, 5);
     background-color: darkseagreen;
-    font-weight: 180; 
+    font-weight: 150; 
     margin-top: 130px;
 }
 
@@ -69,7 +69,7 @@ img:hover {
 .languageskills{
   color:rgb(5, 5, 5);
   background-color: #C58940;
-  font-weight: 180 ; 
+  font-weight: 150 ; 
   margin-top: 20px;
 }
 
@@ -97,7 +97,7 @@ li:hover{
 }
 
 .aboutme{
-  font-weight:50;
+  font-weight: 50;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 100px;
   margin-top: -40px;
@@ -116,7 +116,7 @@ li:hover{
 
 
 .lobster{
-  font-size:50;
+  font-size: 50;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 270px;
   margin-top: -40px;
