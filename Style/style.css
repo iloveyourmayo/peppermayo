@@ -109,7 +109,7 @@ li:hover{
 .projects{
   font-weight: 50;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 155px;
+  margin-left: 175px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
 }
@@ -118,7 +118,7 @@ li:hover{
 .lobster{
   font-size:50;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 250px;
+  margin-left: 270px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
 }
