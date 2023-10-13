@@ -88,7 +88,7 @@ li:hover{
 
 
 .contactme{
-  font-size: 10;
+  font-weight: 100;
   color: rgba(243, 238, 238, 0.89);
   margin-left: 1px;
   margin-top: 30px;
@@ -97,7 +97,7 @@ li:hover{
 }
 
 .aboutme{
-  font-size:10;
+  font-weight:100;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 100px;
   margin-top: -40px;
@@ -107,7 +107,7 @@ li:hover{
 
 
 .projects{
-  font-size: 10;
+  font-weight: 100;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 215px;
   margin-top: -40px;
@@ -116,7 +116,7 @@ li:hover{
 
 
 .lobster{
-  font-size:10;
+  font-size:100;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 320px;
   margin-top: -40px;
