@@ -88,7 +88,7 @@ li:hover{
 
 
 .contactme{
-  font-weight: 100;
+  font-weight: 50;
   color: rgba(243, 238, 238, 0.89);
   margin-left: 1px;
   margin-top: 30px;
@@ -97,9 +97,9 @@ li:hover{
 }
 
 .aboutme{
-  font-weight:100;
+  font-weight:50;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 100px;
+  margin-left: 70px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
   
@@ -107,18 +107,18 @@ li:hover{
 
 
 .projects{
-  font-weight: 100;
+  font-weight: 50;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 215px;
+  margin-left: 180px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
 }
 
 
 .lobster{
-  font-size:100;
+  font-size:50;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 320px;
+  margin-left: 280px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
 }
