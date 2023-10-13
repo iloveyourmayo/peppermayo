@@ -17,6 +17,7 @@ html{
   margin-top: -2px;
   font-family:'Courier New', Courier, monospace;
   background-color: darkseagreen;
+  
 }
 
 .aboutme{
@@ -61,19 +62,21 @@ a:hover{
 
 
 a:visited {
-  color: rgb(145,150,147);
+  color: rgb(7, 94, 65);
 }
 
 
 
 .hr1{
   border-color:rgb(134, 125, 125, 0.459) ;
+  
 }
 
 
 .profilepicture {
     width: 200px;
     height: 235px;
+    border: 5px solid rgb(7, 94, 65);
     margin-left: 5px;
     margin-top: 15px;
 }
@@ -95,14 +98,16 @@ img:hover {
   color: rgb(80, 131, 101);
 }
 
+.hr2{
+  border-color:rgb(134, 125, 125, 0.459) ;
+  margin-top: 20px;
+}
 .niche{
     color:rgb(5, 5, 5);
     background-color: darkseagreen;
     font-size: 12px; 
     margin-top: 130px;
 }
-
-
 
 
 .nichelist{
@@ -116,11 +121,6 @@ img:hover {
 }
 
 
-
-.hr2{
-  border-color:rgb(134, 125, 125, 0.459) ;
-  margin-top: 20px;
-}
 
 .hr3{
   border-color:rgb(134, 125, 125, 0.459) ;
