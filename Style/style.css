@@ -35,7 +35,7 @@ img:hover {
 .niche{
     color:rgb(5, 5, 5);
     background-color: darkseagreen;
-    font-weight: 500 ; 
+    font-weight: 300 ; 
     margin-top: 130px;
 }
 
@@ -69,7 +69,7 @@ img:hover {
 .languageskills{
   color:rgb(5, 5, 5);
   background-color: #C58940;
-  font-weight: 500 ; 
+  font-weight: 300 ; 
   margin-top: 20px;
 }
 
@@ -94,33 +94,34 @@ li:hover{
   margin-left: 3px;
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
-  font-weight: lighter;
+
 }
 
 .aboutme{
+  font-size:10;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 128px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
-  font-weight: lighter;
+  
 }
 
 
 .projects{
+  font-size: 10;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 243px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
-  font-weight: lighter;
 }
 
 
 .lobster{
+  font-size:20;
   color: rgb(243, 238, 238, 0.89);
   margin-left: 355px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
-  font-weight: lighter;
 }
 
 a:link{
