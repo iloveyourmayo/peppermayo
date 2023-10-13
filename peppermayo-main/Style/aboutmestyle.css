@@ -1,0 +1,38 @@
+
+html{
+    background-color: rgba(175, 181, 182, 0.822);
+
+}
+
+
+p{ 
+  color: rgba(11, 36, 21, 0.986);
+  font-family:'Courier New', Courier, monospace;
+  font-weight: lighter;
+  text-align: center;
+  margin-top: 10px;  
+}
+
+
+a{
+  font-size: 12px;  
+  margin-top: 150px;
+  text-align: center;
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(32, 49, 38);
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(145,150,147)
+}
+
+
+
