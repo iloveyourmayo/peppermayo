@@ -91,7 +91,7 @@ li:hover{
   font-size: 10;
   background-color: #658940;
   color: rgba(243, 238, 238, 0.89);
-  margin-left: 3px;
+  margin-left: 1px;
   margin-top: 30px;
   font-family:'Courier New', Courier, monospace;
 
@@ -100,7 +100,7 @@ li:hover{
 .aboutme{
   font-size:10;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 128px;
+  margin-left: 118px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
   
@@ -110,7 +110,7 @@ li:hover{
 .projects{
   font-size: 10;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 243px;
+  margin-left: 230px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
 }
@@ -119,7 +119,7 @@ li:hover{
 .lobster{
   font-size:20;
   color: rgb(243, 238, 238, 0.89);
-  margin-left: 355px;
+  margin-left: 340px;
   margin-top: -40px;
   font-family:'Courier New', Courier, monospace;
 }
