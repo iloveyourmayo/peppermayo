@@ -27,7 +27,7 @@ p{
 
 
 p:hover{
-  color: #9A4444;
+  color: #FFF2D8;
 }
 
 
@@ -60,5 +60,5 @@ a:hover{
 }
 
 a:visited{
-    color: rgb(145,150,147)
+    color: #9A4444;
 }
