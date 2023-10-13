@@ -18,7 +18,7 @@ img:hover {
 
 
 p{ 
-  color: rgb(82, 54, 23);
+  color: #9A4444;
   background-color: #C58940;
   font-family:'Courier New', Courier, monospace;
   font-weight: lighter;
@@ -27,7 +27,7 @@ p{
 
 
 p:hover{
-  color: rgb(82, 54, 23);
+  color: #9A4444;
 }
 
 
